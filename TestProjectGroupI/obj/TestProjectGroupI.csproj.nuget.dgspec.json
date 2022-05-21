@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Grandma\\source\\repos\\TestProjectGroupI\\TestProjectGroupI\\TestProjectGroupI.csproj": {}
+    "C:\\Users\\Grandma\\source\\repos\\Training\\GroupIRepo\\TestProjectGroupI\\TestProjectGroupI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Grandma\\source\\repos\\TestProjectGroupI\\TestProjectGroupI\\TestProjectGroupI.csproj": {
+    "C:\\Users\\Grandma\\source\\repos\\Training\\GroupIRepo\\TestProjectGroupI\\TestProjectGroupI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Grandma\\source\\repos\\TestProjectGroupI\\TestProjectGroupI\\TestProjectGroupI.csproj",
+        "projectUniqueName": "C:\\Users\\Grandma\\source\\repos\\Training\\GroupIRepo\\TestProjectGroupI\\TestProjectGroupI.csproj",
         "projectName": "TestProjectGroupI",
-        "projectPath": "C:\\Users\\Grandma\\source\\repos\\TestProjectGroupI\\TestProjectGroupI\\TestProjectGroupI.csproj",
+        "projectPath": "C:\\Users\\Grandma\\source\\repos\\Training\\GroupIRepo\\TestProjectGroupI\\TestProjectGroupI.csproj",
         "packagesPath": "C:\\Users\\Grandma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Grandma\\source\\repos\\TestProjectGroupI\\TestProjectGroupI\\obj\\",
+        "outputPath": "C:\\Users\\Grandma\\source\\repos\\Training\\GroupIRepo\\TestProjectGroupI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

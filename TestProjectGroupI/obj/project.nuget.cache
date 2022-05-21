@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QhiFlyUDVMLoJxDDJlE1BPdmiDsc3UntArxjlZjU/bUkAht7E2qZNzO32vXv/8+UNMSm2ZkhEjJCwrrvDGdWQw==",
+  "dgSpecHash": "wOzYu2jU2VHNudX6omq+z40imOqXxt3JSCaVRpHiE+cboE5v0W+Nn24JfCm9y042b0fDNKIN+DvY54MT8KpTbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Grandma\\source\\repos\\TestProjectGroupI\\TestProjectGroupI\\TestProjectGroupI.csproj",
+  "projectFilePath": "C:\\Users\\Grandma\\source\\repos\\Training\\GroupIRepo\\TestProjectGroupI\\TestProjectGroupI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Grandma\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\Grandma\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
