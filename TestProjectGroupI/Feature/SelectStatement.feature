@@ -7,5 +7,6 @@
 Scenario: Selecting from Dropdown
 	Given I navigate to the "http://demo.automationtesting.in/Register.html"
 	And I select any skills from the dropdown
-	#When the two numbers are added
-	#Then the result should be 120
+	And I want to confirm my PR as been created
+	When the two numbers are added
+	Then the result should be 120
